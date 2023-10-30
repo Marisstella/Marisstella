@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jennifer     
+- 🌱 I’m currently A student of Alx Africa
+- 🌱 I’m currently learning Python
+- 👀 I’m interested in ...
+- 💞️ I’m looking to collaborate on source projects 
+- 📫 How to reach me jenniephar@gmail.com
